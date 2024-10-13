@@ -115,6 +115,7 @@
         {"predicate":{"custom_model_data":82},"model":"qualityarmory:gun/m1garand"},
         {"predicate":{"custom_model_data":83},"model":"qualityarmory:gun/galil"},
         {"predicate":{"custom_model_data":84},"model":"qualityarmory:gun/ctar21"},	
-        {"predicate":{"custom_model_data":85},"model":"qualityarmory:misc/ammobag"}
+        {"predicate":{"custom_model_data":85},"model":"qualityarmory:misc/ammobag"},
+        {"predicate":{"custom_model_data":86},"model":"qualityarmory:melee/spear"}
 	]
 }

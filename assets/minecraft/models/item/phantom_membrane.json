@@ -25,6 +25,8 @@
         {"predicate":{"custom_model_data":19},"model":"qualityarmory:armor/ncrmask"},
         {"predicate":{"custom_model_data":20},"model":"qualityarmory:armor/skimask"},
         {"predicate":{"custom_model_data":21},"model":"qualityarmory:armor/ushankahat"},
-        {"predicate":{"custom_model_data":22},"model":"qualityarmory:misc/medkit"}
+        {"predicate":{"custom_model_data":22},"model":"qualityarmory:misc/medkit"},
+        {"predicate":{"custom_model_data":23},"model":"qualityarmory:ammo/ammo9mm"},
+        {"predicate":{"custom_model_data":24},"model":"qualityarmory:ammo/ammo556"}
     ]
 }

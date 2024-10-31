@@ -3,5 +3,105 @@
 		"sounds": [
 			"mlserver_ze:5count"
 		]
+	},
+	"10": {
+		"sounds": [
+			"mlserver_ze:10"
+		]
+	},
+	"9": {
+		"sounds": [
+			"mlserver_ze:9"
+		]
+	},
+	"8": {
+		"sounds": [
+			"mlserver_ze:8"
+		]
+	},
+	"7": {
+		"sounds": [
+			"mlserver_ze:7"
+		]
+	},
+	"6": {
+		"sounds": [
+			"mlserver_ze:6"
+		]
+	},
+	"5": {
+		"sounds": [
+			"mlserver_ze:5"
+		]
+	},
+	"4": {
+		"sounds": [
+			"mlserver_ze:4"
+		]
+	},
+	"3": {
+		"sounds": [
+			"mlserver_ze:3"
+		]
+	},
+	"2": {
+		"sounds": [
+			"mlserver_ze:2"
+		]
+	},
+	"1": {
+		"sounds": [
+			"mlserver_ze:1"
+		]
+	},
+	"female.10": {
+		"sounds": [
+			"mlserver_ze:female/10"
+		]
+	},
+	"female.9": {
+		"sounds": [
+			"mlserver_ze:female/9"
+		]
+	},
+	"female.8": {
+		"sounds": [
+			"mlserver_ze:female/8"
+		]
+	},
+	"female.7": {
+		"sounds": [
+			"mlserver_ze:female/7"
+		]
+	},
+	"female.6": {
+		"sounds": [
+			"mlserver_ze:female/6"
+		]
+	},
+	"female.5": {
+		"sounds": [
+			"mlserver_ze:female/5"
+		]
+	},
+	"female.4": {
+		"sounds": [
+			"mlserver_ze:female/4"
+		]
+	},
+	"female.3": {
+		"sounds": [
+			"mlserver_ze:female/3"
+		]
+	},
+	"female.2": {
+		"sounds": [
+			"mlserver_ze:female/2"
+		]
+	},
+	"female.1": {
+		"sounds": [
+			"mlserver_ze:female/1"
+		]
 	}
 }

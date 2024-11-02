@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "mlserver_ze:item/knife/normal_knife"
+	}
+}

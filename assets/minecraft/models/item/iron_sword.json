@@ -1,9 +1,9 @@
 {
-    "parent": "item/generated",
+    "parent": "item/handheld",
     "textures": {
         "layer0": "item/iron_sword"
     },
     "overrides":[
-        {"predicate":{"custom_model_data":1}, "model":"mlserver_ze:knife/normal_knife"}
+        {"predicate":{"custom_model_data":1}, "model":"mlserver_ze:item/knife/normal_knife"}
 	]
 }
